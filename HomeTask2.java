@@ -2,7 +2,7 @@ package One;
 
 import java.util.Scanner;
 
-public class HomeTask {
+public class HomeTask2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
